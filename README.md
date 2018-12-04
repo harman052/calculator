@@ -1,5 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+On PhotoShoto, you can search for high quality images on popular platforms such as Unsplash, Pixabay and Pexels at the same time from one place. Try it out at: https://harman052.github.io/photoShoto/
 ## Available Scripts
 
 In the project directory, you can run:
